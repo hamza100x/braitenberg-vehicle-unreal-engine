@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/saifb/Documents/Unreal Projects/Shera3/Content/BV/VehicleLevels/Three.umap",
+				"C:/Users/saifb/Documents/Unreal Projects/Shera3/Content/BV/VehicleLevels/LV_VehicleThree.umap",
+				"C:/Users/saifb/Documents/Unreal Projects/Shera3/Content/Blueprints/NewGameMode.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/LAB/Vehicle_2_Hamza_Danish_5004921/Content/BV/VehicleLevels/TWo.umap",
+				"C:/Users/saifb/Documents/Unreal Projects/Shera32/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/saifb/Documents/Unreal Projects/Shera32/Content/BV/VehicleTwo/BP_CarV2_2.uasset",
+				"C:/Users/saifb/Documents/Unreal Projects/Shera32/Content/NewGameMode.uasset",
+				"C:/Users/saifb/Documents/Unreal Projects/Shera32/Content/BV/VehicleLevels/LV_VehicleTwo.umap",
+				"C:/Users/saifb/Documents/Unreal Projects/Shera32/Content/BV/CustomVehicle/Materials/MI_SUV_Body_01a.uasset",
+				"C:/Users/saifb/Documents/Unreal Projects/Shera32/Content/BV/VehicleLevels/TWo.umap"
+			]
+		}
+	]
+}
