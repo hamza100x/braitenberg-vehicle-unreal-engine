@@ -30,4 +30,3 @@ This project was completed as a semester project for Professor Dr. Douglas W. Cu
 ## Acknowledgements
 I express my gratitude to Professor Dr. Douglas W. Cunningham for his guidance and supervision throughout the development of this project. I also thank Valentino Braitenberg for his pioneering work in the field of cybernetics, which served as inspiration. Additionally, I extend my thanks to the Unreal Engine community for their support and contributions.
 
-Feel free to adjust this according to your specific project's details.
